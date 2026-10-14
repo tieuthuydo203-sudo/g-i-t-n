@@ -1,0 +1,6 @@
+{
+  "name": "UFO Gọi Tên Học Sinh - Khảo Bài Liên Hành Tinh",
+  "description": "Trò chơi UFO gọi tên học sinh trả bài sinh động, mô phỏng hoạt hình 2D thành phố Việt Nam với hiệu ứng đĩa bay bắt học sinh như trong video tham chiếu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
